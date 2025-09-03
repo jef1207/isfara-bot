@@ -1,0 +1,16 @@
+{
+    "prices": {
+        "print_black": 5.0,
+        "print_color": 5.0,
+        "scan": 8.0,
+        "copy_black": 5.0,
+        "copy_color": 3.0
+    },
+    "stats": {
+        "total_income": 31.0,
+        "prints": 0,
+        "scans": 2,
+        "copies": 3,
+        "last_activity": "13.08.2025 16:57"
+    }
+}
